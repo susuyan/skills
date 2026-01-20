@@ -1,5 +1,5 @@
 // Repository configuration
-const REPO_OWNER = 'guo-yu';
+const REPO_OWNER = 'susuyan';
 const REPO_NAME = 'skills';
 const BRANCH = 'master';
 
