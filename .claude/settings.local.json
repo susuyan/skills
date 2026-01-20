@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tree -a /Users/susuyan/Codes/skills/link-extractor)",
+      "Bash(find /Users/susuyan/Codes/skills/link-extractor -type f -name *)"
+    ]
+  }
+}
